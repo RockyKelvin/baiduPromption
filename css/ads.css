@@ -1,0 +1,164 @@
+.banner{
+	width: 100%;
+	height: auto;
+	margin-top: 141px;
+}
+.banner div{
+	display: block;
+    float: left;
+}
+.banner img{
+	max-width: 100%;
+	width:100%;
+	height: auto;
+}
+.wrap {
+    padding: 77px 0;
+    background-color: #f9f9f9;
+}
+.wrap .m1200 {
+    position: relative;
+}
+.gg-type {
+    height: 382px;
+    margin-bottom: 30px;
+    display: block!important;
+}
+.gg-type li:first-of-type {
+    background-image: url(../images/ggtype-img1.jpg);
+}
+.gg-type li:last-of-type {
+    background-image: url(../images/ggtype-img2.jpg);
+}
+.gg-type li {
+    width: 50%;
+    padding: 40px;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    float: left;
+}
+.gg-type-bottom {
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    right: 40px;
+}
+.gg-type-bottom h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.gg-type li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    float: left;
+    color: #fff;
+}
+.gg-type-bottom p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.gg-type-bottom span.more {
+    display: block;
+    width: 60px;
+    height: 32px;
+    background: url(../images/arrow_right_white.svg) no-repeat;
+    background-position: right center;
+    background-size: 26px;
+    transition: all 0.3s ease-in;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.gg-type2 {
+    overflow: hidden;
+    display: block!important;
+}
+.gg-type2 li {
+    width: calc((100% - 80px)/3);
+    margin-right: 40px;
+    height: 100%;
+    float: left;
+    min-height: 610px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+}
+.gg-type2 li:last-of-type {
+    margin-right: 0;
+}
+.gg-type-pic {
+    height: 436px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    background-color: #eee;
+}
+.gg-type2 li:first-of-type .gg-type-pic {
+    background-image: url(../images/ggtype-img3.jpg);
+}
+.gg-type2 li:nth-of-type(2) .gg-type-pic {
+    background-image: url(../images/ggtype-img4.jpg);
+}
+.gg-type2 li:last-of-type .gg-type-pic {
+    background-image: url(../images/ggtype-img5.jpg);
+}
+.gg-type-text {
+    text-align: left;
+    padding: 0 40px 20px;
+    position: relative;
+}
+.gg-type-text span.more {
+    display: block;
+    width: 60px;
+    height: 32px;
+    background: url(../images/arrow_right.svg) no-repeat;
+    background-position: right center;
+    background-size: 26px;
+    transition: all 0.3s ease-in;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+.gg-type2 a{
+	color:#0000EE;
+}
+.gg-type-text h3 {
+    font-size: 24px;
+    color: #333333;
+    line-height: 36px;
+    margin-bottom: 15px;
+    padding-top: 20px;
+}
+.gg-type-text p {
+    font-size: 16px;
+    color: #87878A;
+    line-height: 24px;
+    min-height: 96px;
+}
+.gg-type-text h3 small {
+    display: inline-block;
+    height: 26px;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 0 5px;
+    background: rgba(236,236,236,0.55);
+    border-radius: 2px;
+    color: #87878A;
+    position: relative;
+    top: -2px;
+}
+.center {
+    text-align: center;
+    padding-top: 20px;
+}
+.center .blue-btn {
+    display: inline-block;
+    float: none;
+    width: 200px;
+}

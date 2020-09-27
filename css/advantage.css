@@ -1,0 +1,51 @@
+.banner{
+	width: 100%;
+	height: auto;
+	margin-top: 81px;
+}
+.banner div{
+	display: block;
+    float: left;
+}
+.banner img{
+	max-width: 100%;
+	width:100%;
+	height: auto;
+}
+.ad-mid{
+	background-color: #f9f9f9;
+	padding:77px 0;
+}
+.inner h2{
+	font-size: 44px;
+    color: #333333;
+    line-height: 64px;
+    margin-bottom: 20px;
+    position: relative;
+    margin-bottom:20px;
+}
+.inner p{
+	font-size: 18px;
+	color: gray;
+	display: block;
+	margin-bottom: 10px;
+}
+.inner h3{
+	display: block;
+    font-size: 28px;
+    margin: 50px 0 25px 0;
+}
+.cj-pic {
+    height: 360px;
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+    overflow: hidden;
+    position: relative;
+    padding: 45px 0 0 140px;
+    transition: all 0.5s;
+    background-image: url(../images/cj-group1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: #000;
+}

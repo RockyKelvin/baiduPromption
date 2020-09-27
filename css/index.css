@@ -1,0 +1,274 @@
+.banner{
+	width:100%;
+	height: 700px;
+	position: relative;
+	overflow: hidden;
+}
+.banner div{
+	width:1920px;
+	height: 700px;
+	position: absolute;
+	left:50%;
+	margin-left: -960px;
+}
+.home-banner-bottom {
+	width: 100%;
+    height: 150px;
+    background: #f5f5f5;
+    padding: 45px 0 0;
+    overflow: hidden;
+    color: #333;
+}
+.banner-num .num{
+	display: inline-block;
+	font-weight: 400;
+    font-size: 44px;
+    position: relative;
+    top: 4px;
+    margin-right: 3px;
+    vertical-align: baseline;
+}
+.banner-num span{
+	font-size: 34px;
+    color: #333333;
+    line-height: 66px;
+    text-align: center;
+}
+.home-banner-bottom .call-num {
+    font-size: 24px;
+    line-height: 100%;
+}
+.home-banner-bottom .call-num a{
+	font-size: 14px;
+}
+.middle{
+	width: 100%;
+	height: 1428px;
+	text-align: center;
+	background: white;
+	position: relative;
+}
+.middle h2{
+	font-size: 44px;
+    color: #333;
+    line-height: 64px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 78px;
+}
+.middle a{
+	border: 1px solid #4581fb;
+    height: 46px;
+    display: block;
+    width: 166px;
+    font-size: 14px;
+    color: #333;
+    line-height: 44px;
+    text-align: center;
+    background-color: #4581fb;
+    transition: all 0.5s;
+    margin: 0 auto;
+    color:white;
+}
+.middle h3 {
+    font-size: 36px;
+    line-height: 46px;
+    clear: both;
+    padding: 0 0 14px;
+    padding-top: 78px;
+}
+.middle p{
+	width:544px;
+	height: 110px;
+	color:grey;
+	text-align: center;
+	padding-top: 28px;
+	margin: 0 auto;
+}
+.middle_img img{
+	width:1120px;
+	height: 372.53px;
+	left:50%;
+	margin-left: -560px;
+	position: absolute;
+}
+.middle_img2 img{
+	width:1120px;
+	height: 393px;
+	left:50%;
+	margin-left: -560px;
+	position: absolute;
+}
+.why-icon{
+    width: 122px;
+	height: 143.77px;
+    position: absolute;
+    color:gray;
+    font-size: 18px;
+}
+.why-icon img{
+	 width: 122px;
+	height: 123.77px;
+}
+.wedget{
+	width: 1180px;
+	height: 393px;
+	position: relative;
+}
+.nuomi1{
+	left:10%;
+	top:100px;
+}
+.nuomi2{
+	left:20%;
+	top:150px;
+}
+.nuomi3{
+	left:28%;
+	top:50px;
+}
+.nuomi4{
+	left:38%;
+	top:150px;
+}
+.nuomi5{
+	left:46%;
+	top:50px;
+}
+.nuomi6{
+	left:56%;
+	top:150px;
+}
+.nuomi7{
+	left:64%;
+	top:50px;
+}
+.nuomi8{
+	left:75%;
+	top:150px;
+}
+.nuomi9{
+	left:83%;
+	top:50px;
+}
+.middle .fl, .middle .fr{
+	padding-top: 105px;
+	width: 470px;
+	height: 348px;
+}
+.middle .fl img, .middle .fr img{
+	width: 267px;
+	height: 189px;
+}
+.middle .fr{
+	width: 470px;
+	height: 453px;
+}
+.middle .fr p{
+	width: 470px;
+	height: 98px;
+}
+.middle-banner{
+	width: 100%;
+	height: 696px;
+	background-color: #42484d;
+}
+.middle-banner h3 {
+    font-size: 36px;
+    line-height: 46px;
+    clear: both;
+    padding: 0 0 14px;
+    padding-top: 78px;
+    color:white;
+    text-align: center;
+}
+.middle-banner a{
+    font-size: 15px;
+}
+.middle-banner .title,.middle-banner .title a{
+	padding: 0 10px;
+	margin: 20px 0;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+}
+.middle-banner a::after{
+    content: '';
+    width:0;
+    display: block;
+    height: 2px;
+    overflow: hidden;
+    background: white;
+    position: absolute;
+    bottom: -5px;
+    left: 8px;
+}
+.middle-banner .ac:after, .middle-banner a:hover:after 
+{
+    width: 80%;
+}
+.mdbannerImg{
+	padding-top: 50px;
+	width: 885px;
+	height: 567px;
+	margin: 0 auto;
+}
+.bottom-banner{
+	background: white;
+	padding-top: 50px;
+}
+.bottom-banner .fl{
+	width: 410px;
+	height: 396px;
+	position: relative;
+}
+.bottom-banner p{
+	color:gray;
+}
+.bottom-banner .fr, .bottom-banner img{
+	width:680px;
+	height: 328.77px;
+}
+.bottom-banner h3 {
+    font-size: 36px;
+    line-height: 46px;
+    clear: both;
+    padding: 0 0 14px;
+    padding-top: 78px;
+    text-align: left;
+}
+.bottom-banner .fl p{
+	padding-top: 10px;
+	width: 410px;
+	height: 56px;
+}
+.bottom-banner .call-btn{
+	position: absolute;
+	bottom: 10%;
+}
+.bottom-banner .fr{
+	margin-top: 60px;
+}
+.bottom li {
+    width: 362px;
+    height: 159px;
+    margin-right: 31px;
+    float: left;
+    background: #fff;
+    border-radius: 4px;
+    position: relative;
+    padding: 40px 23.5px 30px;
+}
+.bottom{
+	color:grey;
+	padding: 70px 0;
+	width: 100%;
+	font-size: 14px;
+}
+.bottom ul{
+	margin: 0 auto;
+}
+.bottom ul li p{
+	line-height:80px;
+}
